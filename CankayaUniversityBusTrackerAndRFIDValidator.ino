@@ -58,7 +58,7 @@
 #include <RTClib.h>                   //Using version: 2.1.4
 #include <EEPROM.h>                   //This library is automatically installed when ESP32 add-on is installed in the Arduino IDE.
 #include <SPIFFS.h>                   //This library is automatically installed when ESP32 add-on is installed in the Arduino IDE.
-#include <Arduino.h>                  //Comes with Arduino IDE (std::vector)
+#include <Arduino.h>                  //Comes with Arduino IDE
 #include <WiFiUdp.h>                  //This library is automatically installed when ESP32 add-on is installed in the Arduino IDE.
 #include <MFRC522v2.h>                //Using version: 2.0.4
 #include <NTPClient.h>                //Using version: 3.2.1
@@ -68,7 +68,7 @@
 #include <JsonListener.h>             //Comes with JsonStreamingParser
 #include <MFRC522Debug.h>             //Comes with MFRC522v2
 #include <TinyGsmClient.h>            //Using version: 0.12.0
-#include <SoftwareSerial.h>           //Comes with Arduino IDE (std::vector)
+#include <SoftwareSerial.h>           //Comes with Arduino IDE
 #include <MFRC522DriverSPI.h>         //Comes with MFRC522v2
 #include <ArduinoHttpClient.h>        //Using version: 0.6.1
 #include <LiquidCrystal_I2C.h>        //Using version: 1.1.3
